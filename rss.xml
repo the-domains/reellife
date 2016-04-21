@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[reellife]]></title>
         <description><![CDATA[reellife]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/reellife/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 17:59:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 18:02:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/reellife/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://vimeo.com/148889054</p>]]></description>
+            <link>https://thegrid.ai/reellife/httpsvimeocom148889054/index.html</link>
+            <guid isPermaLink="false">bdb86e65-a4c0-476e-8960-ce5399d4bb08</guid>
+            <pubDate>Thu, 21 Apr 2016 18:02:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4bc4f5d-33c8-4ec5-bef1-e5f2b3e676ef.jpg">]]></description>
-            <link>undefinedcapture/index.html</link>
+            <link>https://thegrid.ai/reellife/capture/index.html</link>
             <guid isPermaLink="false">124d77c8-6696-4c46-9fbb-902fdf769c77</guid>
             <pubDate>Thu, 21 Apr 2016 17:58:20 GMT</pubDate>
         </item>
