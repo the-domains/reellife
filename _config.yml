@@ -1,7 +1,7 @@
 name: reellife
 favicon: null
-layout_spectrum: 0.6890156192239374
-typography_spectrum: 0.865147503791377
+layout_spectrum: 0.13749
+typography_spectrum: 0.50954
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.7146390869747847
-  lightness: 0.019203445175662637
-  saturation: 0.2925060570705682
+  brandStrength: 0.4375
+  lightness: 0.625
+  saturation: 0.875
   rhythmicContrast: 0.703257515328005
 purpose: []
